@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JalilFitri
+- 👀 I’m interested in Verilog
+- 🌱 I’m currently learning Computer Engineering
+- 💞️ I’m looking to collaborate on Hardware Design
